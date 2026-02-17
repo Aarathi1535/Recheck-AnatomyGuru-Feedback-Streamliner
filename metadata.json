@@ -1,0 +1,7 @@
+{
+  "name": "Recheck AnatomyGuru Feedback Streamliner",
+  "description": "An AI-powered SaaS application that takes question papers, student answers, and rough manual feedback to generate professional, structured evaluation reports for medical students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
